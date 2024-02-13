@@ -9,4 +9,4 @@ model = YOLO('yolov8m-cls.pt')
 
 
 # Train the model
-result = model.train(data=Img_BGR_path, epochs=100, imgsz=640)
+result = model.train(data=Img_path, epochs=10, imgsz=640)
