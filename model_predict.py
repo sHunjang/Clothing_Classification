@@ -7,6 +7,6 @@ predic_BGR_img_path = '/Users/seunghunjang/Desktop/Clothing_Classification/Predi
 predic_img_path = '/Users/seunghunjang/Desktop/Clothing_Classification/Predict_dataset/BGR_X'
 
 # Predict image
-result = model.predict(source='/Users/seunghunjang/Desktop/Clothing_Classification/testset', save=True)
+result = model.predict(source='/Users/seunghunjang/Desktop/Clothing_Classification/All_Similar.PNG', save=True)
 
 #result = model.predict('/path/to/image.PNG', save=True) # One image predict code
