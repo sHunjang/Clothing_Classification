@@ -9,4 +9,5 @@ predic_img_path = '/Users/seunghunjang/Desktop/Clothing_Classification/Predict_d
 # Predict image
 result = model.predict(source=predic_img_path, save=True, save_txt=True)
 
-#result = model.predict('/path/to/image.PNG', save=True) # One image predict code
+# One image predict code
+#result = model.predict('/path/to/image.PNG', save=True)
