@@ -1,0 +1,5 @@
+0.26 basic
+0.20 Wannabe
+0.19 sporty
+0.19 suit
+0.16 padded_coat
