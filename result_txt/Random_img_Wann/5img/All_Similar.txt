@@ -1,0 +1,4 @@
+0.69 Wannabe
+0.16 padded_coat
+0.10 sporty
+0.06 suit
