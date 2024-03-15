@@ -6,10 +6,10 @@ Img_path = '/Users/seunghunjang/Desktop/Clothing_Classification/Dataset'
 
 
 # Load Model
-#model = YOLO('yolov8s-cls.pt')
+model = YOLO('yolov8s-cls.pt')
 
 # pretrained model
-model = YOLO('best.pt')
+# model = YOLO('best.pt')
 
 
 # Train the model
